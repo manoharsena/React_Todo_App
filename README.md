@@ -5,12 +5,10 @@ A simple To-Do application built using React, where you can manage your tasks an
 ## Table of Content
   
 - [To-Do Application](#to-do-application)
-  - [Table of Content](#table-of-content)
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Install dependencies:](#install-dependencies)
   - [Run the development server:](#run-the-development-server)
-  - [Live Demo](#live-demo)
   - [Technologies Used](#technologies-used)
   - [Nelify Deployed Website](#nelify-deployed-website)
   - [License](#license)
@@ -41,9 +39,6 @@ npm install
 
 npm run dev <br/>
 The application will be available at http://localhost:3000.
-
-## Live Demo
-<video controls src="src/assets/To Do App.mp4" title="Title"></video>
 
 ## Technologies Used
 
