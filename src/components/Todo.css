@@ -1,0 +1,23 @@
+#name {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#073e85, #537895);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#description {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#073e85, #537895);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#status {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#073e85, #537895);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
